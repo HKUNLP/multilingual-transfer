@@ -1,0 +1,12 @@
+accelerate
+appdirs
+loralib
+bitsandbytes==0.37.2 # 0.38.* version may report oom when saving models
+datasets
+fire
+transformers
+peft
+git+https://github.com/Shark-NLP/OpenICL.git
+sentencepiece
+wandb
+torch==1.13.1+cu116

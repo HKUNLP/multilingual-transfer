@@ -1,0 +1,400 @@
+{"premise": "Mon corps projetait une ombre sur l'herbe.", "choice1": "Le soleil se levait.", "choice2": "L'herbe a été coupée.", "question": "cause", "idx": 0, "label": 0}
+{"premise": "La femme a toléré le comportement difficile de son amie.", "choice1": "La femme savait que son amie traversait une période difficile.", "choice2": "La femme a estimé que son amie profitait de sa gentillesse.", "question": "cause", "idx": 1, "label": 0}
+{"premise": "Les femmes se sont rencontrées pour prendre un café.", "choice1": "Le café a rouvert dans un nouvel emplacement.", "choice2": "Ils voulaient se rattraper.", "question": "cause", "idx": 2, "label": 1}
+{"premise": "Le coureur portait un short.", "choice1": "Les prévisions annonçaient des températures élevées.", "choice2": "Elle avait prévu de courir le long de la plage.", "question": "cause", "idx": 3, "label": 0}
+{"premise": "Les invités de la fête se sont cachés derrière le canapé.", "choice1": "C'était une fête surprise.", "choice2": "C'était une fête d'anniversaire.", "question": "cause", "idx": 4, "label": 0}
+{"premise": "Le politicien a perdu les élections.", "choice1": "Il a diffusé des annonces de campagne négatives.", "choice2": "Personne n'a voté pour lui.", "question": "cause", "idx": 5, "label": 1}
+{"premise": "La tache est sortie de la chemise.", "choice1": "J'ai rapiécé la chemise.", "choice2": "J'ai blanchi la chemise.", "question": "cause", "idx": 6, "label": 1}
+{"premise": "L'homme a obtenu une réduction sur ses courses.", "choice1": "Il salua la caissière.", "choice2": "Il a utilisé un coupon.", "question": "cause", "idx": 7, "label": 1}
+{"premise": "Le médecin a mal diagnostiqué le patient.", "choice1": "Le patient a déposé une plainte pour faute professionnelle contre le médecin.", "choice2": "Le patient a divulgué des informations confidentielles au médecin.", "question": "effect", "idx": 8, "label": 0}
+{"premise": "Le client a porté plainte auprès du gérant du magasin.", "choice1": "Le vendeur a sous-facturé le client.", "choice2": "Le vendeur s'est montré impoli envers le client.", "question": "cause", "idx": 9, "label": 1}
+{"premise": "La femme a réparé son robinet.", "choice1": "Le robinet fuyait.", "choice2": "Le robinet était fermé.", "question": "cause", "idx": 10, "label": 0}
+{"premise": "La femme âgée a été victime d'un accident vasculaire cérébral.", "choice1": "La fille de la femme est venue nettoyer sa maison.", "choice2": "La fille de la femme a emménagé pour s'occuper d'elle.", "question": "effect", "idx": 11, "label": 1}
+{"premise": "L'étang a gelé pour l'hiver.", "choice1": "Les gens ont patiné sur l'étang.", "choice2": "Les gens ont apporté des bateaux à l'étang.", "question": "effect", "idx": 12, "label": 0}
+{"premise": "Le délinquant a violé la libération conditionnelle.", "choice1": "Elle a été renvoyée en prison.", "choice2": "Elle a volé de l'argent dans une église.", "question": "effect", "idx": 13, "label": 0}
+{"premise": "J'ai versé de l'eau sur mon ami endormi.", "choice1": "Mon ami s'est réveillé.", "choice2": "Mon ami a ronflé.", "question": "effect", "idx": 14, "label": 0}
+{"premise": "La fille haleta.", "choice1": "Son amie lui a planté un glaçon dans le dos.", "choice2": "Son amie lui a donné une tape dans le dos.", "question": "cause", "idx": 15, "label": 0}
+{"premise": "La chemise a rétréci.", "choice1": "J'ai versé de l'eau de Javel dessus.", "choice2": "Je l'ai mis au sèche-linge.", "question": "cause", "idx": 16, "label": 1}
+{"premise": "Il faisait noir dehors.", "choice1": "Des flocons de neige ont commencé à tomber du ciel.", "choice2": "La lune est devenue visible dans le ciel.", "question": "effect", "idx": 17, "label": 1}
+{"premise": "J'ai raccroché le téléphone.", "choice1": "L'appelant m'a dit au revoir.", "choice2": "L'appelant s'est identifié à moi.", "question": "cause", "idx": 18, "label": 0}
+{"premise": "La bague de la femme a glissé sous la douche.", "choice1": "La femme a poli la bague.", "choice2": "La bague est tombée à l'eau.", "question": "effect", "idx": 19, "label": 1}
+{"premise": "La jeune fille a reçu un trophée.", "choice1": "Elle a gagné un concours d'orthographe.", "choice2": "Elle s'est fait un nouvel ami.", "question": "cause", "idx": 20, "label": 0}
+{"premise": "Le rendez-vous de la femme voulait ressembler à un gentleman.", "choice1": "Il lui a ouvert la porte.", "choice2": "Il lui a demandé si elle aimait les sushis.", "question": "effect", "idx": 21, "label": 0}
+{"premise": "Les terres agricoles avaient besoin d'être irriguées.", "choice1": "Un canal a été construit.", "choice2": "Une inondation s'est produite.", "question": "effect", "idx": 22, "label": 0}
+{"premise": "L'hôte a annulé la fête.", "choice1": "Elle était certaine d'avoir la grippe.", "choice2": "Elle craignait d'attraper la grippe.", "question": "cause", "idx": 23, "label": 0}
+{"premise": "La femme a donné son numéro de téléphone à l'homme.", "choice1": "Elle était attirée par lui.", "choice2": "Elle a été repoussée par lui.", "question": "cause", "idx": 24, "label": 0}
+{"premise": "Le parachutiste a glissé en toute sécurité jusqu'au sol.", "choice1": "Elle a ouvert son parachute.", "choice2": "Elle a sauté de l'avion.", "question": "cause", "idx": 25, "label": 0}
+{"premise": "Le bambin est devenu grincheux.", "choice1": "Sa mère l'a couchée pour une sieste.", "choice2": "Sa mère a coiffé ses cheveux en nattes.", "question": "effect", "idx": 26, "label": 0}
+{"premise": "L'enfant est devenu immunisé contre la maladie.", "choice1": "Il a évité l'exposition à la maladie.", "choice2": "Il a reçu le vaccin contre la maladie.", "question": "cause", "idx": 27, "label": 1}
+{"premise": "Le jus de raisin a fermenté.", "choice1": "Le jus s'est transformé en vin.", "choice2": "Le jus s'est évaporé.", "question": "effect", "idx": 28, "label": 0}
+{"premise": "Le débat entre amis s'éternisait.", "choice1": "Les amis se sont vus d'accord.", "choice2": "Les amis se coupaient les cheveux.", "question": "cause", "idx": 29, "label": 1}
+{"premise": "La femme fredonna pour elle-même.", "choice1": "Elle était nerveuse.", "choice2": "Elle était de bonne humeur.", "question": "cause", "idx": 30, "label": 1}
+{"premise": "L'homme détestait sa nouvelle coupe de cheveux.", "choice1": "Il portait un chapeau.", "choice2": "Il s'est fait pousser la barbe.", "question": "effect", "idx": 31, "label": 0}
+{"premise": "Les policiers ont braqué leurs armes sur le fugitif.", "choice1": "Le fugitif tomba à terre.", "choice2": "Le fugitif a lâché son arme.", "question": "effect", "idx": 32, "label": 1}
+{"premise": "Le patient était déshydraté.", "choice1": "L'infirmière testa ses réflexes.", "choice2": "L'infirmière lui a fait une intraveineuse.", "question": "effect", "idx": 33, "label": 1}
+{"premise": "La jeune fille a trouvé la pièce manquante du puzzle.", "choice1": "Elle a terminé le puzzle.", "choice2": "Elle a démonté le puzzle.", "question": "effect", "idx": 34, "label": 0}
+{"premise": "L'homme sauta du lit d'urgence.", "choice1": "Il voulait éteindre le réveil.", "choice2": "Il voulait repasser son pantalon avant le travail.", "question": "cause", "idx": 35, "label": 0}
+{"premise": "Les papiers étaient désorganisés.", "choice1": "J'en ai fait des photocopies.", "choice2": "Je les ai classés par ordre alphabétique.", "question": "effect", "idx": 36, "label": 1}
+{"premise": "La femme a gagné à la loterie.", "choice1": "Elle a acheté un yacht.", "choice2": "Elle a rejoint une église.", "question": "effect", "idx": 37, "label": 0}
+{"premise": "La couturière a enfoncé l'aiguille enfilée dans le tissu.", "choice1": "Le fil enroulé autour de l'aiguille.", "choice2": "Le fil a traversé le tissu.", "question": "effect", "idx": 38, "label": 1}
+{"premise": "La femme a engagé un avocat.", "choice1": "Elle a décidé de porter plainte contre son employeur.", "choice2": "Elle a décidé de se présenter aux élections.", "question": "cause", "idx": 39, "label": 0}
+{"premise": "Le locataire a égaré les clés de son appartement.", "choice1": "Son propriétaire a déverrouillé la porte.", "choice2": "Son propriétaire a réparé la porte.", "question": "effect", "idx": 40, "label": 0}
+{"premise": "Ma chanson préférée est passée à la radio.", "choice1": "J'ai bouché mes oreilles.", "choice2": "J'ai chanté dessus.", "question": "effect", "idx": 41, "label": 1}
+{"premise": "L'exécutif a décidé de ne pas embaucher le candidat.", "choice1": "Le demandeur a échoué à une vérification des antécédents.", "choice2": "Le candidat avait de l'expérience pour le poste.", "question": "cause", "idx": 42, "label": 0}
+{"premise": "L'œil de l'homme s'est infecté.", "choice1": "Il est devenu aveugle.", "choice2": "Il a mis des lunettes.", "question": "effect", "idx": 43, "label": 0}
+{"premise": "L'oiseau ne pouvait pas voler.", "choice1": "Il a migré pour l'hiver.", "choice2": "Il s'est blessé à l'aile.", "question": "cause", "idx": 44, "label": 1}
+{"premise": "La fille a fait un vœu.", "choice1": "Elle a vu un chat noir.", "choice2": "Elle a vu une étoile filante.", "question": "cause", "idx": 45, "label": 1}
+{"premise": "La femme frissonna en sortant de la piscine.", "choice1": "Elle s'est enveloppée dans une serviette.", "choice2": "Elle se versa de la limonade.", "question": "effect", "idx": 46, "label": 0}
+{"premise": "L'infirmière a préparé l'aiguille pour l'injection du patient.", "choice1": "Le patient a saigné.", "choice2": "Le patient s'est tendu.", "question": "effect", "idx": 47, "label": 1}
+{"premise": "L'homme a jeté le pain.", "choice1": "C'était frais.", "choice2": "C'était rassis.", "question": "cause", "idx": 48, "label": 1}
+{"premise": "Les enfants ont renversé une lampe.", "choice1": "Ils ont eu une bataille d'oreillers.", "choice2": "Ils ont sauté sur le lit.", "question": "cause", "idx": 49, "label": 0}
+{"premise": "J'ai bu à la fontaine d'eau.", "choice1": "J'avais soif.", "choice2": "Je me suis senti nauséeux.", "question": "cause", "idx": 50, "label": 0}
+{"premise": "Les propriétaires n'aimaient pas leurs voisins curieux.", "choice1": "Ils ont construit une clôture autour de leur propriété.", "choice2": "Ils ont organisé un barbecue dans leur jardin.", "question": "effect", "idx": 51, "label": 0}
+{"premise": "Le bodybuilder a soulevé des poids.", "choice1": "Le gymnase a fermé.", "choice2": "Ses muscles se sont fatigués.", "question": "effect", "idx": 52, "label": 1}
+{"premise": "Le cuisinier remua les ingrédients dans le bol.", "choice1": "Les ingrédients ont fondu.", "choice2": "Les ingrédients se sont mélangés.", "question": "effect", "idx": 53, "label": 1}
+{"premise": "L'homme a signé le document.", "choice1": "La transaction a été annulée.", "choice2": "La transaction est devenue officielle.", "question": "effect", "idx": 54, "label": 1}
+{"premise": "Le policier a laissé tomber l'arme.", "choice1": "L'arme a reculé.", "choice2": "L'arme a explosé.", "question": "effect", "idx": 55, "label": 1}
+{"premise": "La femme s'est sentie obligée d'aider quelqu'un dans le besoin.", "choice1": "Elle a donné du sang.", "choice2": "Elle a écrit un poème.", "question": "effect", "idx": 56, "label": 0}
+{"premise": "La femme se sentait seule.", "choice1": "Elle a rénové sa cuisine.", "choice2": "Elle a adopté un chat.", "question": "effect", "idx": 57, "label": 1}
+{"premise": "J'ai frotté du papier de verre sur le bois.", "choice1": "Le bois est devenu lisse.", "choice2": "Le bois est devenu collant.", "question": "effect", "idx": 58, "label": 0}
+{"premise": "Le public a fait une standing ovation au groupe.", "choice1": "Le groupe a signé des autographes.", "choice2": "Le groupe est réapparu sur scène.", "question": "effect", "idx": 59, "label": 1}
+{"premise": "L'homme a jeté sa canette vide dans la rue.", "choice1": "Il a été sauté par derrière.", "choice2": "Il a été condamné à une amende pour détritus.", "question": "effect", "idx": 60, "label": 1}
+{"premise": "Mon estomac gronda.", "choice1": "J'ai oublié de prendre le petit déjeuner.", "choice2": "J'étais rassasié dès le petit-déjeuner.", "question": "cause", "idx": 61, "label": 0}
+{"premise": "Les plaisanciers ont déclenché une fusée éclairante.", "choice1": "Leur bateau a dérivé vers le rivage.", "choice2": "Leur bateau a été sauvé.", "question": "effect", "idx": 62, "label": 1}
+{"premise": "L'homme a enlevé son manteau.", "choice1": "Il est entré dans la maison.", "choice2": "Il desserra sa cravate.", "question": "cause", "idx": 63, "label": 0}
+{"premise": "La famille a emmené son chien chez le vétérinaire.", "choice1": "Le chien a mâché un os.", "choice2": "Le chien s'est blessé à la patte.", "question": "cause", "idx": 64, "label": 1}
+{"premise": "La femme agita le biscuit au-dessus du chien.", "choice1": "Le chien a sauté.", "choice2": "Le chien a gratté sa fourrure.", "question": "effect", "idx": 65, "label": 0}
+{"premise": "J'ai appris à jouer au jeu de société.", "choice1": "Mon ami m'a expliqué les règles.", "choice2": "Mon ami s'est trompé sur les règles.", "question": "cause", "idx": 66, "label": 0}
+{"premise": "L'homme est parti en week-end.", "choice1": "Il voulait se détendre.", "choice2": "Il se sentait satisfait.", "question": "cause", "idx": 67, "label": 0}
+{"premise": "La boutique était fermée.", "choice1": "Le propriétaire aidait les clients.", "choice2": "La boutique était en rénovation.", "question": "cause", "idx": 68, "label": 1}
+{"premise": "Le garçon a réglé la radio.", "choice1": "La station diffusait de la musique rock.", "choice2": "La station arrivait avec de l'électricité statique.", "question": "cause", "idx": 69, "label": 1}
+{"premise": "Le terroriste a déclenché la bombe.", "choice1": "La bombe a explosé.", "choice2": "La bombe a été désactivée.", "question": "effect", "idx": 70, "label": 0}
+{"premise": "La police a menotté le suspect.", "choice1": "La police a appelé des renforts.", "choice2": "Le suspect a résisté à son arrestation.", "question": "cause", "idx": 71, "label": 1}
+{"premise": "Les autorités se sont engagées à protéger l'identité de la victime du crime.", "choice1": "La victime a eu du mal à se souvenir des détails du crime.", "choice2": "Ils ont caché le nom de la victime au public.", "question": "effect", "idx": 72, "label": 1}
+{"premise": "Les vêtements de l'homme sont amples.", "choice1": "Il les a achetés en solde.", "choice2": "Il a perdu du poids.", "question": "cause", "idx": 73, "label": 1}
+{"premise": "L'horloge a cessé de tourner.", "choice1": "J'ai pris plus de temps pour me préparer.", "choice2": "L'horloge indiquait la mauvaise heure.", "question": "effect", "idx": 74, "label": 1}
+{"premise": "L'homme ferma le parapluie.", "choice1": "Il est sorti de la voiture.", "choice2": "Il s'approcha du bâtiment.", "question": "cause", "idx": 75, "label": 1}
+{"premise": "L'homme avait envie d'une cigarette.", "choice1": "Sa famille l'a exhorté à arrêter de fumer.", "choice2": "Il était accro à la nicotine.", "question": "cause", "idx": 76, "label": 1}
+{"premise": "L'homme a fait tomber de la nourriture par terre.", "choice1": "Son chien lui a sauté dessus.", "choice2": "Son chien a couru pour manger la nourriture.", "question": "effect", "idx": 77, "label": 1}
+{"premise": "La fille était en colère contre son amie.", "choice1": "La jeune fille a répandu une rumeur sur son amie.", "choice2": "La fille a dit un secret à son amie.", "question": "effect", "idx": 78, "label": 0}
+{"premise": "Le fugitif s'est caché de la police.", "choice1": "La police a classé l'affaire.", "choice2": "Le fugitif est resté en fuite.", "question": "effect", "idx": 79, "label": 1}
+{"premise": "J'ai renversé la bouteille.", "choice1": "Le liquide dans la bouteille a gelé.", "choice2": "Le liquide dans la bouteille s'est écoulé.", "question": "effect", "idx": 80, "label": 1}
+{"premise": "La femme parlait avec un accent étranger.", "choice1": "Elle venait d'une famille aisée.", "choice2": "Elle a émigré d'un autre pays.", "question": "cause", "idx": 81, "label": 1}
+{"premise": "La bouche du garçon piquait.", "choice1": "Il a mangé un piment.", "choice2": "Il a soufflé la bougie.", "question": "cause", "idx": 82, "label": 0}
+{"premise": "J'ai terminé une page du livre.", "choice1": "J'ai déchiré la page suivante.", "choice2": "Je suis passé à la page suivante.", "question": "effect", "idx": 83, "label": 1}
+{"premise": "Le service au restaurant était lent.", "choice1": "Il y avait beaucoup de tables vides.", "choice2": "Le restaurant était bondé.", "question": "cause", "idx": 84, "label": 1}
+{"premise": "J'ai vu une femme se faire cambrioler dans la rue.", "choice1": "J'ai appelé le 911.", "choice2": "J'ai hélé un taxi.", "question": "effect", "idx": 85, "label": 0}
+{"premise": "J'ai mal au ventre.", "choice1": "J'ai fait du jogging sur le tapis roulant.", "choice2": "J'ai mangé un gâteau d'anniversaire.", "question": "cause", "idx": 86, "label": 1}
+{"premise": "Je mets mon assiette dans l'évier.", "choice1": "J'ai fini de manger.", "choice2": "J'ai sauté le dîner.", "question": "cause", "idx": 87, "label": 0}
+{"premise": "L'homme ferma le livre.", "choice1": "Il a fini de le lire.", "choice2": "Cela l'a poussé à réfléchir.", "question": "cause", "idx": 88, "label": 0}
+{"premise": "Le garçon a lu le roman à haute voix à son grand-père.", "choice1": "Son grand-père était sourd.", "choice2": "Son grand-père était aveugle.", "question": "cause", "idx": 89, "label": 1}
+{"premise": "Mon pied s'est engourdi.", "choice1": "J'ai mis mes chaussures.", "choice2": "J'ai secoué mon pied.", "question": "effect", "idx": 90, "label": 1}
+{"premise": "Le photographe a fait sourire l'enfant.", "choice1": "Le photographe a rapidement pris la photo de l'enfant.", "choice2": "Le photographe a rapidement changé la pose de l'enfant.", "question": "effect", "idx": 91, "label": 0}
+{"premise": "La fenêtre était opaque.", "choice1": "Le verre était taché.", "choice2": "Les stores étaient ouverts.", "question": "cause", "idx": 92, "label": 0}
+{"premise": "J'ai glissé par terre.", "choice1": "Le carrelage était mouillé.", "choice2": "Le carrelage était fissuré.", "question": "cause", "idx": 93, "label": 0}
+{"premise": "L'homme fit glisser le rasoir sur son menton.", "choice1": "Son chaume a poussé.", "choice2": "Son chaume a disparu.", "question": "effect", "idx": 94, "label": 1}
+{"premise": "La femme a emmené sa famille en vacances.", "choice1": "Son mari a été licencié.", "choice2": "Elle a reçu une prime salariale.", "question": "cause", "idx": 95, "label": 1}
+{"premise": "La femme s'est réveillée.", "choice1": "Elle a pris des somnifères.", "choice2": "Son mari ronflait.", "question": "cause", "idx": 96, "label": 1}
+{"premise": "La femme sentit une odeur agréable.", "choice1": "Elle s'est souvenue de prendre ses médicaments.", "choice2": "Elle s'est souvenue de son enfance.", "question": "effect", "idx": 97, "label": 1}
+{"premise": "Le bar a fermé.", "choice1": "Il était bondé.", "choice2": "Il était 3 heures du matin.", "question": "cause", "idx": 98, "label": 1}
+{"premise": "Le conducteur a été interpellé par la police.", "choice1": "Il se garait.", "choice2": "Il accélérait.", "question": "cause", "idx": 99, "label": 1}
+{"premise": "Le professeur a pris le relais.", "choice1": "Elle a identifié les élèves absents.", "choice2": "Elle a donné à ses élèves un quiz pop.", "question": "effect", "idx": 100, "label": 0}
+{"premise": "J'ai poussé le pendule.", "choice1": "Il ralentit jusqu'à s'arrêter.", "choice2": "Il oscillait d'avant en arrière.", "question": "effect", "idx": 101, "label": 1}
+{"premise": "L'enfant donna un coup de pied à la pile de blocs.", "choice1": "La pile dominait la tête du garçon.", "choice2": "Les blocs éparpillés sur tout le tapis.", "question": "effect", "idx": 102, "label": 1}
+{"premise": "L'adolescent s'est enfui de chez lui.", "choice1": "Il comptait sur ses parents.", "choice2": "Ses parents l'ont abusé.", "question": "cause", "idx": 103, "label": 1}
+{"premise": "J'ai raté l'entretien d'embauche.", "choice1": "L'intervieweur a posé des questions difficiles.", "choice2": "J'ai anticipé les questions de l'intervieweur.", "question": "cause", "idx": 104, "label": 0}
+{"premise": "La société pharmaceutique a rappelé le médicament.", "choice1": "Les utilisateurs ont signalé des effets secondaires dangereux.", "choice2": "Les utilisateurs ont obtenu des renouvellements de leurs ordonnances.", "question": "cause", "idx": 105, "label": 0}
+{"premise": "L'homme regarda sa montre.", "choice1": "Il s'est rendu compte qu'il avait oublié quelque chose.", "choice2": "Il s'est rendu compte qu'il était en avance.", "question": "effect", "idx": 106, "label": 1}
+{"premise": "J'ai tamponné le sol avec une serviette en papier.", "choice1": "J'ai renversé du jus par terre.", "choice2": "Le sol était taché en permanence.", "question": "cause", "idx": 107, "label": 0}
+{"premise": "Le barman a refusé de servir le client.", "choice1": "Le patron était seul.", "choice2": "Le patron était ivre.", "question": "cause", "idx": 108, "label": 1}
+{"premise": "J'ai été confus par la conférence du professeur.", "choice1": "J'ai fait attention au professeur.", "choice2": "J'ai posé des questions au professeur.", "question": "effect", "idx": 109, "label": 1}
+{"premise": "Le livre a été jugé inapproprié pour les enfants.", "choice1": "Les écoles l'ont banni de ses bibliothèques.", "choice2": "Les enseignants ont demandé aux élèves de le lire.", "question": "effect", "idx": 110, "label": 0}
+{"premise": "L'homme demanda pardon.", "choice1": "La femme a eu pitié de lui.", "choice2": "La femme a plaisanté avec lui.", "question": "effect", "idx": 111, "label": 0}
+{"premise": "J'ai reçu un colis par la poste.", "choice1": "Le colis a éveillé ma curiosité.", "choice2": "J'ai apporté le colis à la poste.", "question": "effect", "idx": 112, "label": 0}
+{"premise": "Le surfeur a attrapé la vague.", "choice1": "La vague l'a emportée jusqu'au rivage.", "choice2": "Elle a pagayé sa planche dans l'océan.", "question": "effect", "idx": 113, "label": 0}
+{"premise": "L'orateur a désarmé son adversaire du débat.", "choice1": "L'oratrice a félicité son adversaire.", "choice2": "L'orateur a remporté le débat.", "question": "effect", "idx": 114, "label": 1}
+{"premise": "J'ai déménagé dans une nouvelle ville.", "choice1": "J'ai trouvé un travail mieux rémunéré.", "choice2": "Mon fils est né.", "question": "cause", "idx": 115, "label": 0}
+{"premise": "J'ai évité de donner une réponse directe à la question.", "choice1": "La question m'a mis mal à l'aise.", "choice2": "Je voulais être honnête.", "question": "cause", "idx": 116, "label": 0}
+{"premise": "L'étudiant a reçu une retenue.", "choice1": "Il a répondu au professeur.", "choice2": "Le professeur a noté ses devoirs.", "question": "cause", "idx": 117, "label": 0}
+{"premise": "Les mains du garçon tremblaient.", "choice1": "Il avait prévu d'inviter la fille à sortir.", "choice2": "Ses paumes étaient froides et moites.", "question": "cause", "idx": 118, "label": 0}
+{"premise": "Les supporters du stade ont applaudi.", "choice1": "Le match s'est terminé par une égalité.", "choice2": "Le joueur a marqué.", "question": "cause", "idx": 119, "label": 1}
+{"premise": "La fille a descendu la colline sur son vélo.", "choice1": "Son vélo a fait une embardée.", "choice2": "Son vélo a accéléré.", "question": "effect", "idx": 120, "label": 1}
+{"premise": "Un homme coupé devant moi dans la longue file.", "choice1": "Je l'ai confronté.", "choice2": "Je lui souris.", "question": "effect", "idx": 121, "label": 0}
+{"premise": "L'intérieur du train s'assombrit.", "choice1": "Le train a traversé un tunnel.", "choice2": "Le train a déraillé.", "question": "cause", "idx": 122, "label": 0}
+{"premise": "L'homme contemplait le tableau.", "choice1": "Il se sentait émerveillé.", "choice2": "Il s'est effondré.", "question": "effect", "idx": 123, "label": 0}
+{"premise": "La tortue se cachait dans sa carapace.", "choice1": "Il a mangé un poisson.", "choice2": "Il a détecté un prédateur.", "question": "cause", "idx": 124, "label": 1}
+{"premise": "La jeune fille a transmis ses vêtements à sa sœur cadette.", "choice1": "Les vêtements étaient en lambeaux.", "choice2": "Elle a dépassé les vêtements.", "question": "cause", "idx": 125, "label": 1}
+{"premise": "Plusieurs témoins du crime ont témoigné contre le suspect.", "choice1": "Le suspect a été acquitté.", "choice2": "Le suspect a été condamné.", "question": "effect", "idx": 126, "label": 1}
+{"premise": "Les parents confient leurs enfants à une baby-sitter.", "choice1": "Leur plus jeune enfant a commencé à fréquenter l'école maternelle.", "choice2": "Ils ont fait des plans pour fêter leur anniversaire.", "question": "cause", "idx": 127, "label": 1}
+{"premise": "Le voyage a duré longtemps.", "choice1": " Le chauffeur a parlé tout le long du trajet.", "choice2": "Le conducteur a fait un mauvais virage.", "question": "cause", "idx": 128, "label": 1}
+{"premise": "Le produit a fait l'objet d'une large publicité.", "choice1": "Les consommateurs ont reconnu le produit.", "choice2": "Le produit est devenu obsolète.", "question": "effect", "idx": 129, "label": 0}
+{"premise": "J'ai frotté le savon entre mes mains.", "choice1": "Le savon moussait.", "choice2": "Mes mains se sont engourdies.", "question": "effect", "idx": 130, "label": 0}
+{"premise": "La cow-girl lança son lasso vers le cheval.", "choice1": "Le lasso a attrapé le cheval.", "choice2": "Le cheval trottait dans la grange.", "question": "effect", "idx": 131, "label": 0}
+{"premise": "Le groupe a ignoré le faux pas de la femme.", "choice1": "La femme était soulagée.", "choice2": "La femme s'est excusée.", "question": "effect", "idx": 132, "label": 0}
+{"premise": "La fille est tombée sur un mot inconnu dans son manuel.", "choice1": "Elle chercha le terme dans le dictionnaire.", "choice2": "Elle jeta le manuel à travers la pièce.", "question": "effect", "idx": 133, "label": 0}
+{"premise": "L'homme est devenu handicapé.", "choice1": "Sa famille lui a offert un soutien financier.", "choice2": "Sa famille a coupé tout contact avec lui.", "question": "effect", "idx": 134, "label": 0}
+{"premise": "La lampe de poche était morte.", "choice1": "Je l'ai démonté.", "choice2": "J'ai remplacé les piles.", "question": "effect", "idx": 135, "label": 1}
+{"premise": "La mouffette a pulvérisé le chien.", "choice1": "Le chien a émis une odeur nauséabonde.", "choice2": "La mouffette errait dans les bois.", "question": "effect", "idx": 136, "label": 0}
+{"premise": "Je me suis gratté la peau.", "choice1": "Mes démangeaisons ont disparu.", "choice2": "Ma cicatrice s'est estompée.", "question": "effect", "idx": 137, "label": 0}
+{"premise": "J'ai écrit une note de remerciement à ma grand-mère.", "choice1": "Elle est devenue oublieuse.", "choice2": "Elle m'a envoyé un cadeau.", "question": "cause", "idx": 138, "label": 1}
+{"premise": "Un cambrioleur a fait irruption dans la maison.", "choice1": "Les propriétaires dormaient.", "choice2": "L'alarme de sécurité s'est déclenchée.", "question": "effect", "idx": 139, "label": 1}
+{"premise": "J'ai tenu la porte à la femme entrant derrière moi.", "choice1": "La porte claqua.", "choice2": "La femme m'a remercié.", "question": "effect", "idx": 140, "label": 1}
+{"premise": "Le miroir de la salle de bain s'est embué.", "choice1": "La fille a allumé le ventilateur.", "choice2": "La fille s'est maquillée.", "question": "effect", "idx": 141, "label": 0}
+{"premise": "L'agent de sécurité s'est attaqué à l'homme.", "choice1": "L'homme fouilla dans sa poche.", "choice2": "L'homme a montré une arme.", "question": "cause", "idx": 142, "label": 1}
+{"premise": "Le conducteur a tourné le volant.", "choice1": "La voiture s'est arrêtée.", "choice2": "La voiture a tourné.", "question": "effect", "idx": 143, "label": 1}
+{"premise": "L'armée a abandonné la bataille.", "choice1": "Ils étaient en infériorité numérique.", "choice2": "Ils ont pris d'assaut la ville.", "question": "cause", "idx": 144, "label": 0}
+{"premise": "La marine a bombardé le navire.", "choice1": "Le navire s'est écrasé sur la jetée.", "choice2": "Les débris du navire ont coulé dans la mer.", "question": "effect", "idx": 145, "label": 1}
+{"premise": "J'ai repassé ma chemise.", "choice1": "C'était propre.", "choice2": "Il était froissé.", "question": "cause", "idx": 146, "label": 1}
+{"premise": "La jeune fille se sentit étourdie.", "choice1": "Elle a perdu l'équilibre.", "choice2": "Elle a fait des étirements.", "question": "effect", "idx": 147, "label": 0}
+{"premise": "Le conducteur s'est arrêté sur le bord de la route.", "choice1": "Il a traversé une intersection.", "choice2": "Il a remarqué un véhicule en panne.", "question": "cause", "idx": 148, "label": 1}
+{"premise": "L'hôpital a renvoyé le patient chez lui.", "choice1": "Les symptômes du patient ont disparu.", "choice2": "La famille du patient lui a rendu visite.", "question": "cause", "idx": 149, "label": 0}
+{"premise": "L'enfant a attrapé une maladie potentiellement mortelle.", "choice1": "Elle n'a pas été vaccinée.", "choice2": "Elle a été adoptée.", "question": "cause", "idx": 150, "label": 0}
+{"premise": "Nous avons trouvé des sièges vides dans le théâtre.", "choice1": "Le film a commencé.", "choice2": "Nous nous sommes assis.", "question": "effect", "idx": 151, "label": 1}
+{"premise": "Les parents ont reconnu la créativité de leur fille.", "choice1": "Ils lui ont appris à faire du vélo.", "choice2": "Ils l'ont encouragée à devenir artiste.", "question": "effect", "idx": 152, "label": 1}
+{"premise": "Le garçon tourna le couvercle du bocal.", "choice1": "Le pot est devenu chaud.", "choice2": "Le couvercle s'est détaché.", "question": "effect", "idx": 153, "label": 1}
+{"premise": "La femme a reçu un diplôme.", "choice1": "Elle s'est inscrite au collège.", "choice2": "Elle est diplômée de l'université.", "question": "cause", "idx": 154, "label": 1}
+{"premise": "J'ai bu le pichet d'eau.", "choice1": "Je suis monté à l'étage.", "choice2": "J'ai couru cinq milles.", "question": "cause", "idx": 155, "label": 1}
+{"premise": "Je suis tombé sur une flaque d'eau sur le trottoir.", "choice1": "J'ai sauté par-dessus la flaque.", "choice2": "J'ai joué dans la flaque.", "question": "effect", "idx": 156, "label": 0}
+{"premise": "La femme s'est bouché les oreilles.", "choice1": "L'alarme incendie retentit.", "choice2": "La femme a senti de la fumée.", "question": "cause", "idx": 157, "label": 0}
+{"premise": "L'archéologue a fouillé le site.", "choice1": "Elle a fouillé des artefacts anciens.", "choice2": "Elle a lu l'histoire du site.", "question": "effect", "idx": 158, "label": 0}
+{"premise": "Le public a hué le comédien hors de scène.", "choice1": "Il a raconté une blague raciste.", "choice2": "Il a diverti le public.", "question": "cause", "idx": 159, "label": 0}
+{"premise": "L'entraîneur a donné un high five à son joueur.", "choice1": "Le joueur écope d'un penalty.", "choice2": "Le joueur a marqué un point.", "question": "cause", "idx": 160, "label": 1}
+{"premise": "J'ai lancé la balle vers le haut.", "choice1": "Le ballon a roulé sur le sol.", "choice2": "Le ballon a touché le plafond.", "question": "effect", "idx": 161, "label": 1}
+{"premise": "Mon haleine sentait l'ail.", "choice1": "J'ai essuyé ma bouche.", "choice2": "Je me suis brossé les dents.", "question": "effect", "idx": 162, "label": 1}
+{"premise": "L'homme était perdu.", "choice1": "Il a demandé des directions.", "choice2": "Il a dessiné une carte.", "question": "effect", "idx": 163, "label": 0}
+{"premise": "Le bébé a tiré les cheveux de la mère.", "choice1": "Le bébé a roté.", "choice2": "La mère grimaça.", "question": "effect", "idx": 164, "label": 1}
+{"premise": "Je me tenais sur un pied.", "choice1": "Mon équilibre a vacillé.", "choice2": "Je me suis agenouillé.", "question": "effect", "idx": 165, "label": 0}
+{"premise": "J'ai appuyé sur la pédale d'accélérateur.", "choice1": "La voiture a accéléré.", "choice2": "La portière de la voiture s'ouvrit.", "question": "effect", "idx": 166, "label": 0}
+{"premise": "Ma voiture a été remorquée.", "choice1": "Je me suis garé illégalement.", "choice2": "J'ai sauté la batterie.", "question": "cause", "idx": 167, "label": 0}
+{"premise": "La femme s'en est tirée avec le crime.", "choice1": "Son complice a été appréhendé.", "choice2": "Elle a détruit les preuves.", "question": "cause", "idx": 168, "label": 1}
+{"premise": "La poussière s'est détachée du bureau.", "choice1": "J'ai essuyé le bureau avec un chiffon.", "choice2": "J'ai retiré les livres du bureau.", "question": "cause", "idx": 169, "label": 0}
+{"premise": "Le motocycliste tourna la manette des gaz.", "choice1": "La moto s'est arrêtée.", "choice2": "La moto a tiré vers l'avant.", "question": "effect", "idx": 170, "label": 1}
+{"premise": "Le professeur a surpris l'élève en train de mâcher du chewing-gum.", "choice1": "La gomme a collé à la chaussure de l'élève.", "choice2": "L'élève a recraché le chewing-gum.", "question": "effect", "idx": 171, "label": 1}
+{"premise": "L'hôte a servi le dîner à ses invités.", "choice1": "Ses invités étaient aimables.", "choice2": "Ses invités ont eu faim.", "question": "effect", "idx": 172, "label": 0}
+{"premise": "Le garçon a grimpé à l'arbre.", "choice1": "Un chat s'est coincé dans l'arbre.", "choice2": "Un oiseau a construit un nid dans l'arbre.", "question": "cause", "idx": 173, "label": 0}
+{"premise": "La chaise grinça.", "choice1": "L'homme porta la chaise à son bureau.", "choice2": "L'homme rapprocha la chaise de son bureau.", "question": "cause", "idx": 174, "label": 1}
+{"premise": "Le père a éteint la télévision des enfants.", "choice1": "C'était l'heure du coucher pour les enfants.", "choice2": "Les enfants regardaient des dessins animés.", "question": "cause", "idx": 175, "label": 0}
+{"premise": "L'homme retint son souffle.", "choice1": "Il est allé sous l'eau.", "choice2": "Il a fait du surplace.", "question": "cause", "idx": 176, "label": 0}
+{"premise": "Je heurtai maladroitement l'inconnu.", "choice1": "Je me suis enfui.", "choice2": "Je lui ai demandé pardon.", "question": "effect", "idx": 177, "label": 1}
+{"premise": "Le bateau a chaviré.", "choice1": "Le capitaine a levé la voile.", "choice2": "Il a été pris dans un ouragan.", "question": "cause", "idx": 178, "label": 1}
+{"premise": "La mère soupçonnait son fils de mentir.", "choice1": "Il a refusé de lui parler.", "choice2": "Il évita d'établir un contact visuel avec elle.", "question": "cause", "idx": 179, "label": 1}
+{"premise": "La jeune femme s'est vu refuser l'entrée du bar.", "choice1": "Ses amis lui ont posé un lapin.", "choice2": "Elle a oublié sa carte d'identité.", "question": "cause", "idx": 180, "label": 1}
+{"premise": "Un cratère s'est formé sur la lune.", "choice1": "Une comète est passée près de la lune.", "choice2": "Une comète est entrée en collision avec la lune.", "question": "cause", "idx": 181, "label": 1}
+{"premise": "J'ai planté les graines dans le sol.", "choice1": "J'ai arrosé le sol.", "choice2": "Les graines ont germé.", "question": "effect", "idx": 182, "label": 1}
+{"premise": "Le bienfaiteur a demandé à rester anonyme.", "choice1": "Il voulait préserver son intimité.", "choice2": "Il a soutenu la cause derrière son don.", "question": "cause", "idx": 183, "label": 0}
+{"premise": "La femme avait honte de la cicatrice sur son visage.", "choice1": "Elle a expliqué la cicatrice aux étrangers.", "choice2": "Elle a caché la cicatrice avec du maquillage.", "question": "effect", "idx": 184, "label": 1}
+{"premise": "Le médecin a radiographié le bras du patient.", "choice1": "Il a découvert que le bras du patient était cassé.", "choice2": "Il a placé le bras du patient dans un plâtre.", "question": "effect", "idx": 185, "label": 0}
+{"premise": "Le garçon a rempli le seau de sable.", "choice1": "Il ramassait des coquillages dans le sable.", "choice2": "Il construisait un château de sable.", "question": "cause", "idx": 186, "label": 1}
+{"premise": "La femme a mis à niveau son matériel informatique.", "choice1": "Elle a supprimé d'anciens fichiers sur l'ordinateur.", "choice2": "Elle a installé un nouveau logiciel sur l'ordinateur.", "question": "effect", "idx": 187, "label": 1}
+{"premise": "La fille a joué dans un récital de danse.", "choice1": "Ses parents lui ont appris à danser.", "choice2": "Ses parents sont venus assister au récital.", "question": "effect", "idx": 188, "label": 1}
+{"premise": "Le bébé pleurait dans son berceau.", "choice1": "La mère a pris le bébé.", "choice2": "Le bébé a rampé jusqu'à la mère.", "question": "effect", "idx": 189, "label": 0}
+{"premise": "La femme a eu un réveil religieux.", "choice1": "Elle a commencé à aller à l'église.", "choice2": "Elle a commencé à voyager à l'étranger.", "question": "effect", "idx": 190, "label": 0}
+{"premise": "Les tiroirs du bureau étaient encombrés.", "choice1": "J'ai jeté le contenu inutile.", "choice2": "J'ai verrouillé les tiroirs.", "question": "effect", "idx": 191, "label": 0}
+{"premise": "L'étudiant a fait étalage de sa note à ses camarades de classe.", "choice1": "Il a obtenu une note parfaite.", "choice2": "Il a feint de s'intéresser à la classe.", "question": "cause", "idx": 192, "label": 0}
+{"premise": "Le garçon avait le mal du pays.", "choice1": "Il est parti au camp.", "choice2": "Il s'est chamaillé avec sa sœur.", "question": "cause", "idx": 193, "label": 0}
+{"premise": "La fusée s'est envolée dans le ciel.", "choice1": "La fille l'a lancé.", "choice2": "La fille l'a conçu.", "question": "cause", "idx": 194, "label": 0}
+{"premise": "Le garçon murmura sa réponse à sa mère.", "choice1": "Sa mère lui a dit de chuchoter.", "choice2": "Sa mère lui a dit de parler.", "question": "effect", "idx": 195, "label": 1}
+{"premise": "Mon vol a été retardé.", "choice1": "Des tornades ont été aperçues dans la région.", "choice2": "J'ai été retenu à la sécurité de l'aéroport.", "question": "cause", "idx": 196, "label": 0}
+{"premise": "L'avertisseur de fumée s'est déclenché.", "choice1": "J'ai allumé une bougie.", "choice2": "J'ai brûlé mon dîner.", "question": "cause", "idx": 197, "label": 1}
+{"premise": "Le vase s'est cassé.", "choice1": "Je l'ai marqué au pochoir.", "choice2": "Je l'ai recollé.", "question": "effect", "idx": 198, "label": 1}
+{"premise": "La femme a ressenti un choc électrique.", "choice1": "Elle attrapa la poignée de la porte.", "choice2": "Elle frappa à la porte.", "question": "cause", "idx": 199, "label": 0}
+{"premise": "L'homme avait du rouge à lèvres sur la joue.", "choice1": "La femme l'embrassa.", "choice2": "La femme le fit rougir.", "question": "cause", "idx": 200, "label": 0}
+{"premise": "Je sursautai instinctivement de peur.", "choice1": "J'ai senti quelqu'un s'approcher de moi par derrière.", "choice2": "J'ai entendu des gens rire dans la pièce adjacente.", "question": "cause", "idx": 201, "label": 0}
+{"premise": "Le jardinier voulait que ses plantes fleurissent.", "choice1": "Il a planté une variété de graines.", "choice2": "Il a mis de l'engrais dans le sol.", "question": "effect", "idx": 202, "label": 1}
+{"premise": "Une conduite d'eau dans la maison a éclaté.", "choice1": "L'eau était insalubre.", "choice2": "Le tuyau a gelé.", "question": "cause", "idx": 203, "label": 1}
+{"premise": "La ceinture de mon pantalon était lâche.", "choice1": "J'ai mis une ceinture.", "choice2": "Je mets un chapeau.", "question": "effect", "idx": 204, "label": 0}
+{"premise": "L'entreprise a perdu de l'argent.", "choice1": "Ses produits ont reçu des critiques positives des consommateurs.", "choice2": "Certains de ses produits ont été fabriqués de manière défectueuse.", "question": "cause", "idx": 205, "label": 1}
+{"premise": "Les locataires ont été expulsés de l'appartement.", "choice1": "Ils ont négligé de payer leur loyer.", "choice2": "Ils s'entendaient bien avec leur propriétaire.", "question": "cause", "idx": 206, "label": 0}
+{"premise": "L'homme s'est réveillé avec un mal de dents.", "choice1": "Il a raté un rendez-vous chez le dentiste.", "choice2": "Il a pris rendez-vous chez le dentiste.", "question": "effect", "idx": 207, "label": 1}
+{"premise": "L'équipe a perdu le match.", "choice1": "Leur meilleur joueur a été blessé.", "choice2": "Leur entraîneur les a gonflés à bloc.", "question": "cause", "idx": 208, "label": 0}
+{"premise": "Les parents ont interdit à leurs enfants de regarder le film.", "choice1": "Le film a été classé R.", "choice2": "Le film était animé.", "question": "cause", "idx": 209, "label": 0}
+{"premise": "La femme a supprimé l'e-mail.", "choice1": "L'expéditeur a tenté de lui soutirer de l'argent.", "choice2": "L'expéditeur lui a demandé une réponse.", "question": "cause", "idx": 210, "label": 0}
+{"premise": "La police a éliminé la femme de la liste des suspects.", "choice1": "La police l'a interrogée.", "choice2": "Son alibi vérifié.", "question": "cause", "idx": 211, "label": 1}
+{"premise": "Les grimpeurs ont atteint le sommet de la montagne.", "choice1": "Ils ont rencontré une avalanche.", "choice2": "Ils se sont félicités.", "question": "effect", "idx": 212, "label": 1}
+{"premise": "Les vandales ont lancé une pierre contre la fenêtre.", "choice1": "La fenêtre s'est fissurée.", "choice2": "La vitre s'est embuée.", "question": "effect", "idx": 213, "label": 0}
+{"premise": "Les révélations de la diseuse de bonne aventure étaient convaincantes.", "choice1": "Elle a reçu de nombreux clients qui reviennent.", "choice2": "De nombreux clients ont demandé des remboursements.", "question": "effect", "idx": 214, "label": 0}
+{"premise": "Le maquillage de la femme a coulé.", "choice1": "Elle se brossa les cheveux.", "choice2": "Elle s'essuya les yeux.", "question": "cause", "idx": 215, "label": 1}
+{"premise": "Les bénéfices de l'entreprise ont commencé à se stabiliser.", "choice1": "Elle a accru ses efforts de commercialisation de nouveaux produits.", "choice2": "Elle a déménagé son siège social dans une banlieue.", "question": "effect", "idx": 216, "label": 0}
+{"premise": "La réponse de l'élève à l'examen était incorrecte.", "choice1": "L'enseignant a ajouté des points bonus à la note de l'élève.", "choice2": "L'enseignant a soustrait des points à la note de l'élève.", "question": "effect", "idx": 217, "label": 1}
+{"premise": "La fille voulait démontrer l'étiquette appropriée.", "choice1": "Elle a jeté sa serviette après avoir mangé.", "choice2": "Elle posa sa serviette sur ses genoux avant de manger.", "question": "effect", "idx": 218, "label": 1}
+{"premise": "Le détective a montré son badge au policier.", "choice1": "Le policier a confisqué le badge du détective.", "choice2": "Le policier a laissé le détective entrer sur la scène du crime.", "question": "effect", "idx": 219, "label": 1}
+{"premise": "La fille voulait faire plaisir à sa mère.", "choice1": "La fille a mangé les biscuits préparés par sa mère.", "choice2": "La fille a cueilli une fleur pour sa mère.", "question": "effect", "idx": 220, "label": 1}
+{"premise": "Le bambin s'est mis à pleurer.", "choice1": "Ses parents ont emporté son jouet.", "choice2": "Ses parents lui ont offert un jouet.", "question": "effect", "idx": 221, "label": 1}
+{"premise": "L'étranger m'a crié dans une langue étrangère.", "choice1": "Je le regardai fixement.", "choice2": "Je me suis arrêté pour discuter avec lui.", "question": "effect", "idx": 222, "label": 0}
+{"premise": "L'homme a découvert des preuves incriminantes contre son ennemi.", "choice1": "L'homme évitait son ennemi.", "choice2": "L'homme a fait chanter son ennemi.", "question": "effect", "idx": 223, "label": 1}
+{"premise": "La fille s'est poussée du haut du toboggan.", "choice1": "Elle glissa sur le toboggan.", "choice2": "Elle a rampé sur le toboggan.", "question": "effect", "idx": 224, "label": 0}
+{"premise": "Ma mâchoire s'ouvrit.", "choice1": "J'étais malheureux.", "choice2": "J'étais choqué.", "question": "cause", "idx": 225, "label": 1}
+{"premise": "L'enfant a désobéi à ses parents.", "choice1": "Ses parents l'ont embrassée.", "choice2": "Ses parents l'ont punie.", "question": "effect", "idx": 226, "label": 1}
+{"premise": "La voiture avait l'air sale.", "choice1": "Le propriétaire l'a emmené au lave-auto.", "choice2": "Son propriétaire l'a pris pour un travail de peinture.", "question": "effect", "idx": 227, "label": 0}
+{"premise": "Mon ami a payé mon billet.", "choice1": "J'ai demandé un remboursement.", "choice2": "Je l'ai remboursée.", "question": "effect", "idx": 228, "label": 1}
+{"premise": "La femme a été condamnée à tort pour le crime.", "choice1": "Le jury était juste.", "choice2": "Elle a été encadrée.", "question": "cause", "idx": 229, "label": 1}
+{"premise": "La fille a appliqué les ciseaux sur le papier.", "choice1": "Le papier découpé en morceaux.", "choice2": "Le papier s'est froissé.", "question": "effect", "idx": 230, "label": 0}
+{"premise": "La femme a rendu visite à sa famille.", "choice1": "Elle se méfiait d'eux.", "choice2": "Elle leur a manqué.", "question": "cause", "idx": 231, "label": 1}
+{"premise": "J'ai éclaté de rire.", "choice1": "Mes dents ont commencé à claquer.", "choice2": "Mes yeux se sont remplis de larmes.", "question": "effect", "idx": 232, "label": 1}
+{"premise": "Le directeur de l'école a mis en place un code vestimentaire.", "choice1": "Les étudiants ont protesté contre la décision.", "choice2": "Les élèves ont été expulsés de l'école.", "question": "effect", "idx": 233, "label": 0}
+{"premise": "Le ballon s'est agrandi.", "choice1": "J'ai soufflé dedans.", "choice2": "Je l'ai piqué.", "question": "cause", "idx": 234, "label": 0}
+{"premise": "Je voulais alléger l'ambiance de la conversation.", "choice1": "Je suis resté silencieux.", "choice2": "J'ai raconté une blague.", "question": "effect", "idx": 235, "label": 1}
+{"premise": "L'homme s'est cassé l'orteil.", "choice1": "Il a un trou dans sa chaussette.", "choice2": "Il laissa tomber un marteau sur son pied.", "question": "cause", "idx": 236, "label": 1}
+{"premise": "L'homme a fait une crise de conscience.", "choice1": "Il a manipulé son ami.", "choice2": "Il a reconnu son indiscrétion.", "question": "effect", "idx": 237, "label": 1}
+{"premise": "Une bagarre a éclaté dans le hall de l'école.", "choice1": "Le directeur a suspendu les élèves impliqués.", "choice2": "Le principal a annulé les cours pour la journée.", "question": "effect", "idx": 238, "label": 0}
+{"premise": "Les albums photos ont pris la poussière dans le grenier.", "choice1": "Ils sont restés intacts pendant des années.", "choice2": "La famille s'est souvenue sur les photos.", "question": "cause", "idx": 239, "label": 0}
+{"premise": "J'ai été distrait de ma conversation avec la femme.", "choice1": "Tout le monde dans la salle parlait.", "choice2": "La femme racontait une histoire drôle.", "question": "cause", "idx": 240, "label": 0}
+{"premise": "Je mets des pièces dans la machine à laver à la laverie.", "choice1": "La machine s'est mise sous tension.", "choice2": "J'ai manqué de lessive.", "question": "effect", "idx": 241, "label": 0}
+{"premise": "La famille a reporté le barbecue.", "choice1": "La prévision prévoyait des orages.", "choice2": "C'était un week-end férié.", "question": "cause", "idx": 242, "label": 0}
+{"premise": "De l'air s'est échappé du ballon de plage.", "choice1": "Il était gonflé.", "choice2": "Il y avait un trou dedans.", "question": "cause", "idx": 243, "label": 1}
+{"premise": "La conversation de notre groupe s'est peu à peu endormie.", "choice1": "Je me sentais mal à l'aise.", "choice2": "Je suis devenu furieux.", "question": "effect", "idx": 244, "label": 0}
+{"premise": "Je serrai l'emballage du bonbon dans mon poing.", "choice1": "L'emballage s'est froissé.", "choice2": "L'emballage s'est déchiré.", "question": "effect", "idx": 245, "label": 0}
+{"premise": "La femme appuya sur la touche du piano.", "choice1": "Un son joué.", "choice2": "La clé s'est coincée.", "question": "effect", "idx": 246, "label": 0}
+{"premise": "La fille a rencontré son acteur préféré.", "choice1": "Elle est allée voir son nouveau film.", "choice2": "Elle lui a demandé son autographe.", "question": "effect", "idx": 247, "label": 1}
+{"premise": "Les véhicules roulaient lentement.", "choice1": "C'était nuageux.", "choice2": "C'était brumeux.", "question": "cause", "idx": 248, "label": 1}
+{"premise": "Le lustre s'est brisé sur le sol.", "choice1": "Le lustre est tombé du plafond.", "choice2": "Les lumières du lustre s'allumaient et s'éteignaient.", "question": "cause", "idx": 249, "label": 0}
+{"premise": "Le chat ronronnait.", "choice1": "Ça m'a griffé.", "choice2": "Je l'ai caressé.", "question": "cause", "idx": 250, "label": 1}
+{"premise": "Le garçon a poussé sa sœur.", "choice1": "Sa sœur l'a dénoncé.", "choice2": "Ils ont joué à cache-cache.", "question": "effect", "idx": 251, "label": 0}
+{"premise": "L'homme a pris du poids.", "choice1": "Il a fait modifier son costume.", "choice2": "Il a fait cirer ses chaussures.", "question": "effect", "idx": 252, "label": 0}
+{"premise": "Les nuages semblaient sombres.", "choice1": "J'ai amené mon ordinateur portable au travail.", "choice2": "J'ai apporté mon parapluie au travail.", "question": "effect", "idx": 253, "label": 1}
+{"premise": "Le moteur de l'avion était défectueux.", "choice1": "L'avion s'est écrasé.", "choice2": "Le pilote a fait une erreur.", "question": "effect", "idx": 254, "label": 0}
+{"premise": "Les voitures se sont déplacées vers l'accotement de la route.", "choice1": "Le feu est passé au vert.", "choice2": "Une ambulance hurlante s'est approchée.", "question": "cause", "idx": 255, "label": 1}
+{"premise": "Le garçon a perdu la main sur la barre de savon.", "choice1": "Le bar était glissant.", "choice2": "Le bar dégageait un parfum.", "question": "cause", "idx": 256, "label": 0}
+{"premise": "Le bouton de ma chemise est tombé.", "choice1": "J'ai recousu le bouton.", "choice2": "J'ai recollé le bouton.", "question": "effect", "idx": 257, "label": 0}
+{"premise": "La célébrité portait des lunettes de soleil.", "choice1": "Elle tenait à remercier ses fans.", "choice2": "Elle voulait éviter d'être reconnue.", "question": "cause", "idx": 258, "label": 1}
+{"premise": "Ma grand-mère est décédée.", "choice1": "Ma famille a organisé des funérailles.", "choice2": "Ma famille a organisé une réunion.", "question": "effect", "idx": 259, "label": 0}
+{"premise": "Le policier a interpellé la célébrité.", "choice1": "La célébrité a offert un pot-de-vin à l'officier.", "choice2": "La célébrité a poursuivi le policier.", "question": "effect", "idx": 260, "label": 0}
+{"premise": "L'homme a révélé des informations personnelles au thérapeute.", "choice1": "Il faisait confiance au thérapeute.", "choice2": "Il n'était pas d'accord avec le thérapeute.", "question": "cause", "idx": 261, "label": 0}
+{"premise": "L'homme est tombé inconscient.", "choice1": "L'agresseur a frappé l'homme à la tête.", "choice2": "L'agresseur a pris le portefeuille de l'homme.", "question": "cause", "idx": 262, "label": 0}
+{"premise": "Je me suis approché de l'homme.", "choice1": "Il avait l'air occupé.", "choice2": "Il avait l'air familier.", "question": "cause", "idx": 263, "label": 1}
+{"premise": "Le chef a reçu des éloges.", "choice1": "Il a combattu la pauvreté.", "choice2": "Il a augmenté les impôts.", "question": "cause", "idx": 264, "label": 0}
+{"premise": "L'homme a lu le dessin animé dans le journal.", "choice1": "Il a bu du café.", "choice2": "Il en riant.", "question": "effect", "idx": 265, "label": 1}
+{"premise": "Ma boîte aux lettres débordait de lettres.", "choice1": "Le couvercle de la boîte aux lettres s'est cassé.", "choice2": "Je suis parti en vacances pendant deux semaines.", "question": "cause", "idx": 266, "label": 1}
+{"premise": "Les bananes ont mûri.", "choice1": "Nous les avons pressés.", "choice2": "Nous les avons mangés.", "question": "effect", "idx": 267, "label": 1}
+{"premise": "Le chef a appuyé sur la pâte.", "choice1": "La pâte s'est émiettée.", "choice2": "La pâte s'est aplatie.", "question": "effect", "idx": 268, "label": 1}
+{"premise": "L'argile a durci.", "choice1": "Le potier a roulé l'argile en boule.", "choice2": "Le potier a mis l'argile au four.", "question": "cause", "idx": 269, "label": 1}
+{"premise": "Mes pieds étaient couverts d'ampoules.", "choice1": "J'ai fait de la randonnée.", "choice2": "Je suis allé nager.", "question": "cause", "idx": 270, "label": 0}
+{"premise": "La femme a trahi son amie.", "choice1": "Son amie lui a envoyé une carte de vœux.", "choice2": "Son amie a coupé le contact avec elle.", "question": "effect", "idx": 271, "label": 1}
+{"premise": "L'homme remarqua la femme.", "choice1": "Il capta une bouffée de son parfum.", "choice2": "Il lui tournait le dos.", "question": "cause", "idx": 272, "label": 0}
+{"premise": "La femme et son petit ami se sont disputés.", "choice1": "Ils ont cessé de se voir.", "choice2": "Ils ont prévu des vacances ensemble.", "question": "effect", "idx": 273, "label": 0}
+{"premise": "L'intimidateur a tendu le pied devant son camarade de classe.", "choice1": "L'intimidateur a ramassé son camarade de classe.", "choice2": "Le camarade de classe de l'intimidateur a trébuché.", "question": "effect", "idx": 274, "label": 1}
+{"premise": "L'homme voulait se venger de son ennemi.", "choice1": "L'homme a accusé son ennemi d'un crime.", "choice2": "L'homme a déclaré une trêve avec son ennemi.", "question": "effect", "idx": 275, "label": 0}
+{"premise": "J'ai bu une tasse de café.", "choice1": "Mon bâillement cessa.", "choice2": "Je me suis endormi.", "question": "effect", "idx": 276, "label": 0}
+{"premise": "La femme a été confondue avec sa sœur.", "choice1": "La femme était proche de sa sœur.", "choice2": "La femme ressemblait à sa sœur.", "question": "cause", "idx": 277, "label": 1}
+{"premise": "L'homme a fait une erreur dans ses calculs.", "choice1": "Il a vérifié son travail.", "choice2": "Son travail était hâtif.", "question": "cause", "idx": 278, "label": 1}
+{"premise": "Les lunettes de la femme se sont embuées.", "choice1": "Elle s'est allongée au bord de la piscine.", "choice2": "Elle est entrée dans le sauna.", "question": "cause", "idx": 279, "label": 1}
+{"premise": "L'acheteur s'interroge sur le prix de l'article.", "choice1": "Il vérifia son prix.", "choice2": "Il a décidé de l'acheter.", "question": "effect", "idx": 280, "label": 0}
+{"premise": "L'animateur du jeu-questionnaire a appelé le candidat pour une réponse.", "choice1": "Le concurrent était en tête.", "choice2": "Le concurrent a sonné le buzzer.", "question": "cause", "idx": 281, "label": 1}
+{"premise": "Le garçon avait peur d'aller au lit.", "choice1": "Il a allumé sa veilleuse.", "choice2": "Il a regardé un film d'horreur.", "question": "cause", "idx": 282, "label": 1}
+{"premise": "La femme voulait être médecin.", "choice1": "Elle a visité l'hôpital.", "choice2": "Elle est allée à l'école de médecine.", "question": "effect", "idx": 283, "label": 1}
+{"premise": "Le garçon a trouvé l'émission de télévision ennuyeuse.", "choice1": "Il l'a enregistré.", "choice2": "Il l'a éteint.", "question": "effect", "idx": 284, "label": 1}
+{"premise": "Ma fille a fait une crise d'allergie.", "choice1": "Je l'ai encouragée à respirer profondément.", "choice2": "Je l'ai emmenée aux urgences.", "question": "effect", "idx": 285, "label": 1}
+{"premise": "Le garçon avait du mal à boutonner sa chemise.", "choice1": "Il a refusé de porter la chemise.", "choice2": "Il a demandé de l'aide à sa mère.", "question": "effect", "idx": 286, "label": 1}
+{"premise": "Je recrache mon chewing-gum.", "choice1": "J'ai fait une bulle avec le chewing-gum.", "choice2": "La gomme a perdu sa saveur.", "question": "cause", "idx": 287, "label": 1}
+{"premise": "Le garçon a peint un tableau pour sa mère.", "choice1": "Sa mère a accroché le tableau au mur.", "choice2": "Sa mère a vendu le tableau à une galerie.", "question": "effect", "idx": 288, "label": 0}
+{"premise": "Le concours s'est terminé.", "choice1": "Les équipes se sont gonflées.", "choice2": "Les équipes se sont serré la main.", "question": "effect", "idx": 289, "label": 1}
+{"premise": "La fille a poliment refusé le hamburger.", "choice1": "Elle était végétarienne.", "choice2": "Elle aimait la restauration rapide.", "question": "cause", "idx": 290, "label": 0}
+{"premise": "J'ai frotté la tache sur le sol.", "choice1": "Je me suis débarrassé de la tache.", "choice2": "J'ai de la saleté sur le sol.", "question": "effect", "idx": 291, "label": 0}
+{"premise": "Les documents contenaient des informations importantes.", "choice1": "Je les ai attachés ensemble.", "choice2": "Je les ai gardés en lieu sûr.", "question": "effect", "idx": 292, "label": 1}
+{"premise": "L'œuf s'est éclaboussé.", "choice1": "Je l'ai fait tombé.", "choice2": "Je l'ai fait bouillir.", "question": "cause", "idx": 293, "label": 0}
+{"premise": "La fille a poussé son amie.", "choice1": "Son amie s'est étouffée.", "choice2": "Son amie est tombée.", "question": "effect", "idx": 294, "label": 1}
+{"premise": "Un groupe d'adolescents a écrasé la fête.", "choice1": "L'hôte de la fête les a chassés.", "choice2": "L'hôte de la fête les a invités.", "question": "effect", "idx": 295, "label": 0}
+{"premise": "L'homme a pris une douche.", "choice1": "Il était en sueur à force de s'entraîner.", "choice2": "Il ouvrit une nouvelle barre de savon.", "question": "cause", "idx": 296, "label": 0}
+{"premise": "L'écran du portable est devenu noir.", "choice1": "La garantie de l'ordinateur portable a expiré.", "choice2": "La batterie de l'ordinateur portable est morte.", "question": "cause", "idx": 297, "label": 1}
+{"premise": "Le livre est devenu un énorme best-seller.", "choice1": "Il a été adapté en film.", "choice2": "L'auteur est tombé dans l'oubli.", "question": "effect", "idx": 298, "label": 0}
+{"premise": "L'homme était reconnaissant d'être en vie.", "choice1": "Il a été guéri d'un cancer.", "choice2": "Sa femme a été diagnostiquée d'un cancer.", "question": "cause", "idx": 299, "label": 0}
+{"premise": "La femme a fait un chèque à la compagnie de gaz.", "choice1": "Elle a préféré payer en espèces.", "choice2": "Elle a reçu sa facture mensuelle.", "question": "cause", "idx": 300, "label": 1}
+{"premise": "La femme hésitait à changer de carrière.", "choice1": "Elle gagnait beaucoup d'argent dans son métier actuel.", "choice2": "Elle a enduré beaucoup de stress dans son emploi actuel.", "question": "cause", "idx": 301, "label": 0}
+{"premise": "La femme a déposé une ordonnance d'éloignement contre l'homme.", "choice1": "L'homme l'a appelée.", "choice2": "L'homme l'a traquée.", "question": "cause", "idx": 302, "label": 1}
+{"premise": "La marée océanique était dangereuse.", "choice1": "Les nageurs mettent plus de crème solaire.", "choice2": "Les nageurs revinrent vers le rivage.", "question": "effect", "idx": 303, "label": 1}
+{"premise": "La femme a refusé une deuxième bière.", "choice1": "Elle était la conductrice désignée pour la nuit.", "choice2": "Elle connaissait le barman.", "question": "cause", "idx": 304, "label": 0}
+{"premise": "J'étais à bout de souffle.", "choice1": "J'ai gravi plusieurs volées d'escaliers.", "choice2": "J'ai lu plusieurs chapitres du livre.", "question": "cause", "idx": 305, "label": 0}
+{"premise": "La femme était considérée comme une malade mentale.", "choice1": "Elle a été envoyée dans un établissement psychiatrique.", "choice2": "Elle a cherché une carrière de psychiatre.", "question": "effect", "idx": 306, "label": 0}
+{"premise": "Le soleil a émergé des nuages.", "choice1": "La femme jeta un coup d'œil à sa montre.", "choice2": "La femme a enlevé son pull.", "question": "effect", "idx": 307, "label": 1}
+{"premise": "L'entraîneur de football a perdu la voix après le match.", "choice1": "Il criait chaque fois qu'un joueur tâtonnait le ballon.", "choice2": "Il sifflait chaque fois qu'un joueur marquait un touché.", "question": "cause", "idx": 308, "label": 0}
+{"premise": "La femme a complimenté l'homme.", "choice1": "Il a éternué.", "choice2": "Il a rougi.", "question": "effect", "idx": 309, "label": 1}
+{"premise": "J'ai appliqué une pression sur la coupure de mon bras.", "choice1": "Il a guéri.", "choice2": "Il a cessé de saigner.", "question": "effect", "idx": 310, "label": 1}
+{"premise": "La femme avait une infection.", "choice1": "Elle a pris des antibiotiques.", "choice2": "Elle s'est lavé les mains.", "question": "effect", "idx": 311, "label": 0}
+{"premise": "La femme a été convoquée pour être jurée.", "choice1": "Elle a contacté son avocat.", "choice2": "Elle a annulé ses rendez-vous.", "question": "effect", "idx": 312, "label": 1}
+{"premise": "La femme s'est éventée avec sa main.", "choice1": "Elle a installé le climatiseur dans la chambre.", "choice2": "Le climatiseur de la chambre est tombé en panne.", "question": "cause", "idx": 313, "label": 1}
+{"premise": "Les médecins ont amputé la jambe du patient.", "choice1": "Il était gravement meurtri.", "choice2": "Il était gravement infecté.", "question": "cause", "idx": 314, "label": 1}
+{"premise": "La jeune fille se regarda dans le miroir.", "choice1": "Elle se sentait gênée.", "choice2": "Le miroir était taché.", "question": "cause", "idx": 315, "label": 0}
+{"premise": "L'homme a été piqué par des moustiques.", "choice1": "Il est allé camper dans les bois.", "choice2": "Il s'est endormi sur son canapé.", "question": "cause", "idx": 316, "label": 0}
+{"premise": "La femme a offert un cadeau à son frère.", "choice1": "Son frère a refusé d'accepter le cadeau.", "choice2": "Son frère a déballé le cadeau.", "question": "effect", "idx": 317, "label": 1}
+{"premise": "L'administratrice s'éclaircit la gorge.", "choice1": "La réunion a été reportée.", "choice2": "La réunion a commencé.", "question": "effect", "idx": 318, "label": 1}
+{"premise": "Les enfants ont couru à travers l'arroseur.", "choice1": "Ils ont mangé des sucettes glacées.", "choice2": "Ils étaient chauds.", "question": "cause", "idx": 319, "label": 1}
+{"premise": "L'homme avait besoin de pièces pour remplir le parcmètre.", "choice1": "Il a fouillé sous ses sièges de voiture pour trouver de la monnaie.", "choice2": "Il a supplié les gens dans la rue pour de la monnaie.", "question": "effect", "idx": 320, "label": 0}
+{"premise": "Le client pensait que le souvenir était trop cher.", "choice1": "Le vendeur le lui a vendu.", "choice2": "Il a négocié avec le vendeur.", "question": "effect", "idx": 321, "label": 1}
+{"premise": "Le scientifique a gagné la reconnaissance.", "choice1": "Elle a découvert une nouvelle espèce.", "choice2": "Elle a été titularisée à l'université.", "question": "cause", "idx": 322, "label": 0}
+{"premise": "La voiture s'est arrêtée au passage pour piétons.", "choice1": "Le piéton a traversé la route.", "choice2": "Le piéton attendait sur le trottoir.", "question": "effect", "idx": 323, "label": 0}
+{"premise": "Le garçon gloussa de façon incontrôlable.", "choice1": "Son frère le chatouillait.", "choice2": "Son frère lui a donné un coup de pied.", "question": "cause", "idx": 324, "label": 0}
+{"premise": "Mes genoux ont fléchi dans les escaliers.", "choice1": "Je me suis rattrapé sur la rambarde.", "choice2": "La balustrade s'est détachée du mur.", "question": "effect", "idx": 325, "label": 0}
+{"premise": "Je me suis couché.", "choice1": "C'était une nuit claire.", "choice2": "Il était tard.", "question": "cause", "idx": 326, "label": 1}
+{"premise": "Mon ami se remettait d'une opération.", "choice1": "Je l'ai déposée à l'hôpital.", "choice2": "Je lui ai apporté une carte et des fleurs.", "question": "effect", "idx": 327, "label": 1}
+{"premise": "Le DJ a mis la musique en marche.", "choice1": "Les gens ont quitté la fête.", "choice2": "Les gens ont commencé à danser.", "question": "effect", "idx": 328, "label": 1}
+{"premise": "L'agent de sécurité a rejoué les images de surveillance.", "choice1": "La caméra de surveillance était floue.", "choice2": "Il a remarqué une activité suspecte.", "question": "cause", "idx": 329, "label": 1}
+{"premise": "Je m'attardais au lit au réveil.", "choice1": "J'avais faim.", "choice2": "C'était samedi.", "question": "cause", "idx": 330, "label": 1}
+{"premise": "L'homme souleva la lourde boîte.", "choice1": "Il a tendu le dos.", "choice2": "Il s'est gratté le dos.", "question": "effect", "idx": 331, "label": 0}
+{"premise": "Le sac à main de la femme avait disparu.", "choice1": "Il contenait beaucoup de déchets.", "choice2": "Elle l'a laissé sans surveillance.", "question": "cause", "idx": 332, "label": 1}
+{"premise": "La femme souffrait d'amnésie.", "choice1": "Elle a eu une réaction allergique.", "choice2": "Elle a eu un accident de voiture.", "question": "cause", "idx": 333, "label": 1}
+{"premise": "J'avais besoin d'argent.", "choice1": "Je suis allé a la banque.", "choice2": "J'ai acheté un portefeuille.", "question": "effect", "idx": 334, "label": 0}
+{"premise": "Le cavalier est tombé au sol.", "choice1": "Le taureau a bousculé le cavalier.", "choice2": "Le taureau a poursuivi le cavalier.", "question": "cause", "idx": 335, "label": 0}
+{"premise": "Le garçon voulait être musclé.", "choice1": "Il a soulevé des poids.", "choice2": "Il jouait à des jeux informatiques.", "question": "effect", "idx": 336, "label": 0}
+{"premise": "Le scientifique a mené une expérience.", "choice1": "Elle a validé sa théorie.", "choice2": "Elle a fabriqué ses données.", "question": "effect", "idx": 337, "label": 0}
+{"premise": "Le lait est resté froid.", "choice1": "Il a été pasteurisé.", "choice2": "Je l'ai stocké au réfrigérateur.", "question": "cause", "idx": 338, "label": 1}
+{"premise": "Le bébé difficile s'est calmé.", "choice1": "Les parents ont secoué un hochet devant le bébé.", "choice2": "Les parents ont choisi un nom pour le bébé.", "question": "cause", "idx": 339, "label": 0}
+{"premise": "J'ai mis des glaçons dans la soupe chaude.", "choice1": "La soupe a refroidi.", "choice2": "La soupe est devenue épaisse.", "question": "effect", "idx": 340, "label": 0}
+{"premise": "La jeune fille a partagé son déjeuner avec son amie.", "choice1": "Son ami a oublié d'apporter son déjeuner.", "choice2": "Son amie s'est assise à côté d'elle au déjeuner.", "question": "cause", "idx": 341, "label": 0}
+{"premise": "La police a clos l'enquête.", "choice1": "Ils ont appréhendé le suspect.", "choice2": "La victime a récupéré.", "question": "cause", "idx": 342, "label": 0}
+{"premise": "La pluie s'est calmée.", "choice1": "J'ai fait un tour.", "choice2": "J'ai navigué sur Internet.", "question": "effect", "idx": 343, "label": 0}
+{"premise": "La tasse de thé était bouillante.", "choice1": "J'ai soufflé dessus.", "choice2": "Je l'ai versé.", "question": "effect", "idx": 344, "label": 0}
+{"premise": "La photographie s'est estompée.", "choice1": "C'était faux.", "choice2": "C'était vieux.", "question": "cause", "idx": 345, "label": 1}
+{"premise": "Le garçon a un œil au beurre noir.", "choice1": "Le tyran s'est moqué du garçon.", "choice2": "L'intimidateur a donné un coup de poing au garçon.", "question": "cause", "idx": 346, "label": 1}
+{"premise": "J'ai égaré mon portefeuille.", "choice1": "J'ai récupéré mon téléphone.", "choice2": "Je suis revenu sur mes pas.", "question": "effect", "idx": 347, "label": 1}
+{"premise": "Le chasseur a manqué de munitions.", "choice1": "Il a rechargé l'arme.", "choice2": "Il a visé le cerf.", "question": "effect", "idx": 348, "label": 0}
+{"premise": "La vie marine a diminué.", "choice1": "Les bateaux naviguaient sur l'océan.", "choice2": "Le pétrole s'est déversé dans l'océan.", "question": "cause", "idx": 349, "label": 1}
+{"premise": "J'ai passé le glaçon sous l'eau tiède.", "choice1": "Le glaçon me collait aux doigts.", "choice2": "Le glaçon a disparu.", "question": "effect", "idx": 350, "label": 1}
+{"premise": "Le client est entré dans la boutique.", "choice1": "Elle a laissé son portefeuille à la maison.", "choice2": "La vitrine attira son attention.", "question": "cause", "idx": 351, "label": 1}
+{"premise": "L'homme a bu de l'eau avec son repas.", "choice1": "Son repas était froid.", "choice2": "Son repas était épicé.", "question": "cause", "idx": 352, "label": 1}
+{"premise": "La femme est restée à l'écart des lieux publics.", "choice1": "Elle était contagieuse.", "choice2": "Elle était ivre.", "question": "cause", "idx": 353, "label": 0}
+{"premise": "L'odeur putride emplit la pièce.", "choice1": "Je plaquai ma main sur mon nez.", "choice2": "J'ai mis les gants en caoutchouc.", "question": "effect", "idx": 354, "label": 0}
+{"premise": "L'employé s'est absenté du travail.", "choice1": "Sa famille est entrée en contact avec elle.", "choice2": "Il y a eu un décès dans sa famille.", "question": "cause", "idx": 355, "label": 1}
+{"premise": "L'aimant a attiré le trombone.", "choice1": "Le trombone est tombé de l'aimant.", "choice2": "Le trombone collé à l'aimant.", "question": "effect", "idx": 356, "label": 1}
+{"premise": "Le jardinier a arraché les mauvaises herbes.", "choice1": "Les mauvaises herbes sont sorties du sol.", "choice2": "Les mauvaises herbes ont produit des graines.", "question": "effect", "idx": 357, "label": 0}
+{"premise": "Nous avons commandé une pizza.", "choice1": "La pizza a été livrée.", "choice2": "La pizza est devenue froide.", "question": "effect", "idx": 358, "label": 0}
+{"premise": "L'adolescent a grandi plus grand que son père.", "choice1": "Il a traversé une poussée de croissance.", "choice2": "Il a rejoint l'équipe de basket.", "question": "cause", "idx": 359, "label": 0}
+{"premise": "Le patient a subi la procédure médicale à risque.", "choice1": "La procédure était coûteuse.", "choice2": "Les spécialistes ont recommandé la procédure.", "question": "cause", "idx": 360, "label": 1}
+{"premise": "L'homme a attrapé sa manche de chemise sur les barreaux de la clôture.", "choice1": "Il a sauté la clôture.", "choice2": "La manche déchirée.", "question": "effect", "idx": 361, "label": 1}
+{"premise": "Les enquêteurs ont qualifié la mort de l'homme de suicide.", "choice1": "Il a laissé un mot.", "choice2": "Il avait des enfants.", "question": "cause", "idx": 362, "label": 0}
+{"premise": "L'ordinateur est tombé en panne.", "choice1": "J'ai sauvegardé mes fichiers.", "choice2": "J'ai téléchargé un virus.", "question": "cause", "idx": 363, "label": 1}
+{"premise": "La bouche de la fille était douloureuse.", "choice1": "Elle a perdu une dent.", "choice2": "Elle avala son chewing-gum.", "question": "cause", "idx": 364, "label": 0}
+{"premise": "La pièce était sombre.", "choice1": "J'ai ouvert les stores.", "choice2": "J'ai lavé les vitres.", "question": "effect", "idx": 365, "label": 0}
+{"premise": "Le père a mis sa fille dans sa poussette.", "choice1": "Elle a appris à marcher.", "choice2": "Il était fatigué de la porter.", "question": "cause", "idx": 366, "label": 1}
+{"premise": "L'espion a découvert l'emplacement de l'ennemi.", "choice1": "L'espion a mis sur écoute le téléphone de l'ennemi.", "choice2": "L'espion a été engagé par le gouvernement.", "question": "cause", "idx": 367, "label": 0}
+{"premise": "Les verres sur la table se sont renversés.", "choice1": "L'enfant a dessiné sur la table.", "choice2": "L'enfant tira sur la nappe.", "question": "cause", "idx": 368, "label": 1}
+{"premise": "L'eau de la théière a commencé à bouillir.", "choice1": "La théière a refroidi.", "choice2": "La théière siffla.", "question": "effect", "idx": 369, "label": 1}
+{"premise": "La ville a réélu le maire.", "choice1": "La ville a réduit son budget.", "choice2": "Le maire a tenu ses promesses.", "question": "cause", "idx": 370, "label": 1}
+{"premise": "La femme a exagéré les détails de l'histoire.", "choice1": "Elle voulait de l'attention.", "choice2": "Elle se sentait timide.", "question": "cause", "idx": 371, "label": 0}
+{"premise": "La femme a frappé une crise de la quarantaine.", "choice1": "Elle a pris sa retraite.", "choice2": "Elle a fait du parachutisme.", "question": "effect", "idx": 372, "label": 1}
+{"premise": "L'homme est entré dans le déni de la tragédie.", "choice1": "Il s'en est remis facilement.", "choice2": "Il a refusé d'en parler.", "question": "effect", "idx": 373, "label": 1}
+{"premise": "L'homme était en deuil.", "choice1": "Sa femme l'a critiqué.", "choice2": "Sa mère est décédée.", "question": "cause", "idx": 374, "label": 1}
+{"premise": "La fille avait une phobie des chiens.", "choice1": "Elle a sauvé un chien abandonné.", "choice2": "Elle a été mordue par un chien.", "question": "cause", "idx": 375, "label": 1}
+{"premise": "J'ai pris la résolution d'avoir une alimentation saine.", "choice1": "J'ai suivi un cours de yoga.", "choice2": "J'ai acheté des fruits et légumes.", "question": "effect", "idx": 376, "label": 1}
+{"premise": "Le patient est tombé dans le coma.", "choice1": "Il a subi un traumatisme émotionnel.", "choice2": "Il a subi des lésions cérébrales.", "question": "cause", "idx": 377, "label": 1}
+{"premise": "La conversation entre amis à l'heure du dîner tourna à la politique.", "choice1": "La conversation s'est calmée.", "choice2": "Un débat a éclaté.", "question": "effect", "idx": 378, "label": 1}
+{"premise": "La femme repéra son amie de l'autre côté de la pièce.", "choice1": "La femme fit un signe de la main.", "choice2": "La femme s'est échappée.", "question": "cause", "idx": 379, "label": 0}
+{"premise": "La mère avait besoin d'aide pour s'occuper de ses enfants.", "choice1": "Elle a envoyé les enfants à la garderie.", "choice2": "Elle a renoncé à la garde des enfants.", "question": "effect", "idx": 380, "label": 0}
+{"premise": "La conductrice a klaxonné.", "choice1": "Une autre voiture a fait une embardée dans sa voie.", "choice2": "Elle a tourné à droite au feu.", "question": "cause", "idx": 381, "label": 0}
+{"premise": "L'homme voulait économiser de l'argent.", "choice1": "Il a retiré de l'argent de son compte d'épargne.", "choice2": "Il a réduit ses achats frivoles.", "question": "effect", "idx": 382, "label": 1}
+{"premise": "Je mets des chaussures.", "choice1": "Le sol contenait du verre brisé.", "choice2": "La peinture sur les murs était humide.", "question": "cause", "idx": 383, "label": 0}
+{"premise": "Le bibliothécaire repéra le livre dans les piles.", "choice1": "J'ai demandé l'aide du bibliothécaire.", "choice2": "Le livre a été vérifié.", "question": "cause", "idx": 384, "label": 0}
+{"premise": "La mère est devenue au niveau des yeux de son fils.", "choice1": "Elle s'accroupit.", "choice2": "Elle lui tenait la main.", "question": "cause", "idx": 385, "label": 0}
+{"premise": "J'ai rangé mes affaires.", "choice1": "Je cherchais un nouvel appartement.", "choice2": "Je quittais mon appartement.", "question": "cause", "idx": 386, "label": 1}
+{"premise": "Le garçon imitait son frère aîné.", "choice1": "Le garçon regarda son frère aîné.", "choice2": "Le garçon a lutté avec son frère aîné.", "question": "cause", "idx": 387, "label": 0}
+{"premise": "La jeune fille désirait l'approbation de ses parents.", "choice1": "Elle s'est enfuie de chez elle.", "choice2": "Elle a obéi aux règles de ses parents.", "question": "effect", "idx": 388, "label": 1}
+{"premise": "Le camion a percuté la moto sur le pont.", "choice1": "Le motard est décédé.", "choice2": "Le pont s'est effondré.", "question": "effect", "idx": 389, "label": 0}
+{"premise": "Le magasin de détail a fermé.", "choice1": "Ses ventes étaient à la traîne.", "choice2": "Elle a renouvelé son bail.", "question": "cause", "idx": 390, "label": 0}
+{"premise": "Le nageur a remporté la course.", "choice1": "Elle a reçu une médaille d'or.", "choice2": "Son équipe a perdu la rencontre.", "question": "effect", "idx": 391, "label": 0}
+{"premise": "La pollution de l'air dans la ville s'est aggravée.", "choice1": "Les usines ont augmenté leur production.", "choice2": "Des usines fermées.", "question": "cause", "idx": 392, "label": 0}
+{"premise": "La mère a grondé sa fille.", "choice1": "Sa fille a roté sur la table de la cuisine.", "choice2": "Sa fille a mis la table de la cuisine.", "question": "cause", "idx": 393, "label": 0}
+{"premise": "Je me suis excusé du groupe.", "choice1": "J'ai éteint mon téléphone.", "choice2": "Mon téléphone a sonné.", "question": "cause", "idx": 394, "label": 1}
+{"premise": "Le skieur a glissé sur la pente.", "choice1": "Elle a laissé tomber ses bâtons de ski.", "choice2": "Elle a heurté une plaque de glace.", "question": "cause", "idx": 395, "label": 1}
+{"premise": "L'impression sur la brochure était minuscule.", "choice1": "L'homme a mis ses lunettes.", "choice2": "L'homme a sorti un stylo de sa poche.", "question": "effect", "idx": 396, "label": 0}
+{"premise": "J'ai basculé l'interrupteur d'éclairage de haut en bas.", "choice1": "La lumière s'est estompée.", "choice2": "La lumière a clignoté.", "question": "effect", "idx": 397, "label": 1}
+{"premise": "La montre de l'homme était cassée.", "choice1": "Il a attendu à l'arrêt de bus.", "choice2": "Il a demandé l'heure à un inconnu.", "question": "effect", "idx": 398, "label": 1}
+{"premise": "Les soldats étaient cachés dans les broussailles.", "choice1": "Ils étaient armés de fusils.", "choice2": "Ils portaient des uniformes de camouflage.", "question": "cause", "idx": 399, "label": 1}
